@@ -1,0 +1,32 @@
+_repo: Genesis_18105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: Reach into the distant past and discover the fascinating origins of the
+  advanced technology that allows future Earth inhabitants to journey between parallel
+  universes at their whim. This entry in H. Beam Piper's popular Paratime series homes
+  in on the Martian colonists who visited Earth hundreds of thousands of years ago.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Genesis
+url: http://www.gutenberg.org/ebooks/18105
